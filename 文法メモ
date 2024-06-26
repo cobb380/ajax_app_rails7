@@ -47,3 +47,7 @@ XMLHttpRequestオブジェクトのプロパティの一種です。
 
 
 <挿入したい要素名>.insertAdjacentHTML(挿入したい位置,挿入したいHTML);
+insertAdjacentHTMLメソッドとは、HTMLをある要素の指定した箇所に挿入するメソッドです。
+HTMLを挿入したい要素に対して使うメソッドで、第一引数にHTMLを挿入したい位置、第二引数に挿入したいHTMLを記述します。
+
+
