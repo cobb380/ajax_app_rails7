@@ -33,3 +33,17 @@ XMLHttpRequestオブジェクトのメソッドの一種です。
 preventDefault()
 既定のイベントを無効化するためのメソッドです。
 
+
+
+    XHR.onload = () => {
+    };
+    onloadプロパティとは、リクエストの送信が成功したときに呼び出されるプロパティのことです。XMLHttpRequestオブジェクトのプロパティの一種です。
+
+
+
+responseプロパティとは、サーバーからのレスポンスに関する情報が格納されたプロパティのことです。
+XMLHttpRequestオブジェクトのプロパティの一種です。
+
+
+
+<挿入したい要素名>.insertAdjacentHTML(挿入したい位置,挿入したいHTML);
